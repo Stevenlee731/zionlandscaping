@@ -1,0 +1,2 @@
+webpackJsonp([0xefeaa6d1881d],{156:function(e,t,a){"use strict";function u(e){return e&&e.__esModule?e:{default:e}}t.__esModule=!0;var n=a(1),l=u(n),d=a(7),o=u(d),f=function(){return l.default.createElement(l.default.Fragment,null,l.default.createElement("h1",null,"About Zion Landscaping"),l.default.createElement(o.default,{to:"/"},"Go back to the homepage"))};t.default=f,e.exports=t.default}});
+//# sourceMappingURL=component---src-pages-about-js-cb98424af26a957f5cce.js.map

@@ -1,0 +1,2 @@
+webpackJsonp([0xf56877dfa5f4],{160:function(e,t,l){"use strict";function a(e){return e&&e.__esModule?e:{default:e}}t.__esModule=!0;var u=l(1),n=a(u),f=l(7),o=a(f),r=function(){return n.default.createElement(n.default.Fragment,null,n.default.createElement("h1",null,"Services"),n.default.createElement("p",null,"Welcome to page 2"),n.default.createElement(o.default,{to:"/"},"Go back to the homepage"))};t.default=r,e.exports=t.default}});
+//# sourceMappingURL=component---src-pages-services-js-ad6560a5894fee5d154c.js.map
