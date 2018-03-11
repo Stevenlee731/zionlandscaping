@@ -3,6 +3,7 @@ module.exports = {
     title: 'Zion Landscaping',
     desc: 'Real landscaping ideas and design for your front yard, backyard, and all residential landscaping purposes.'
   },
+  pathPrefix: "/zionlandscaping",
   plugins: [
     'gatsby-plugin-react-helmet', 
     `gatsby-plugin-react-next`,
